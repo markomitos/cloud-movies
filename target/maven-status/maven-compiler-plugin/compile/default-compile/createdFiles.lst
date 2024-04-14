@@ -1,0 +1,4 @@
+uns/movies/movies/controllers/FilmController.class
+uns/movies/movies/domain/Film.class
+uns/movies/movies/repositories/FilmsRepository.class
+uns/movies/movies/MoviesApplication.class
